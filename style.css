@@ -937,9 +937,12 @@ color:#EE7B52;
 	.header-button {
 	    font-size: 6vw;
 	    margin-top: 75%;
+	    width:100%;
 	}
 	
-	
+.re-title{
+width:80%;
+	}
 	
 	
 	/*-----------------------------
@@ -1057,8 +1060,14 @@ bottom: initial;
 .quality-under{
 		width:initial; 
 	}	
-	
-	
+.quality{
+	height: inherit;
+	padding: inherit;
+	}
+.box{
+margin-top: inherit;
+height: inherit;
+	}
 	
 	
 	
