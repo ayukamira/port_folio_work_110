@@ -934,7 +934,10 @@ color:#EE7B52;
 	.header-text{
 		font-size: 13px;
 	}
-	
+	.header-button {
+	    font-size: 6vw;
+	    margin-top: 75%;
+	}
 	
 	
 	
@@ -967,7 +970,8 @@ color:#EE7B52;
 *
 --------------------------------*/	
 	.order-subtitle{
-		width: initial;  
+		width: initial; 
+		font-size: 5vw;
 	}
 	.order-title{
 		font-size:20px;
@@ -1002,16 +1006,18 @@ color:#EE7B52;
 .op{
 	height: 250px;	
 	}
-.per-title1{
-	font-size: 20px;
+.per-title1-sp{
+	font-size: inherit;
+        margin-left: 5%;
+	bottom:  initial; 
+	
+}
+.per-title2-sp{
+	font-size: inherit;
 	bottom:  initial;  
 }
-.per-title2{
-	font-size: 20px;
-	bottom:  initial;  
-}
-.per-title3{
-	font-size: 20px;
+.per-title3-sp{
+	font-size: inherit;
 	bottom:  initial;  
 }
 .op-text1{
