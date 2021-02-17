@@ -94,7 +94,7 @@ div{text-align: center;}
 	font-size:30px;
 	font-weight: bolder;
 	border-bottom: dashed 2px #6E5D49;
-	width: 30%;
+	width: 45%;
 	margin:auto;
 	margin-bottom: 40px;
 	margin-top: 80px;
@@ -205,8 +205,9 @@ color:#EE7B52;
 .ex-text{
 	text-align: left;
 	width: 70%;
-	margin: auto;
-	line-height: 1.5em
+        margin: auto 10%;
+	line-height: 1.5em;
+	
 }
 .circle{
 	display: inline-block;
@@ -219,7 +220,7 @@ color:#EE7B52;
 }
 .circle-inner{
 	position: relative;
-	top: 50%;
+	top: 40%;
 	left: 50%;
 	-webkit-transform:translate(-50%,-50%);
 	transform: translate(-50%,-50%);
@@ -309,7 +310,7 @@ color:#EE7B52;
 	color: #FFFFFF;
 	padding-top: 40px;
 	background:linear-gradient(transparent 70%, #CD4120 90%);
-	width:20%;
+	width: 40%;
 	margin: auto;
 	
 	
@@ -403,6 +404,7 @@ color:#EE7B52;
 }
 .op-subtitle{
 	background:linear-gradient(transparent 30%, #F4D31F 50%);
+	line-height: 2em;
 }
 .face-pc{
 	width:20%;
@@ -430,15 +432,14 @@ color:#EE7B52;
 
 .per-title1-pc{
 	margin-top: 70px;
-	margin-left:35px;
-	font-size: 25px;
 	font-family:"Osaka-mono", "MS Gothic", "monospace";
 	color:#1C869A;
 	line-height:1.5em;
 	font-weight: bolder;
 }
 .person1{
-	display: flex;	
+	display: flex;
+	justify-content: center;
 }
 .op-name1{
 	font-size:15px;
@@ -449,7 +450,7 @@ color:#EE7B52;
 }
 .op-text1{
 	display: block;
-	margin: 70px;
+	margin: 10%;
 	text-align: left;
 	line-height:1.5em;
 	text-decoration: underline;
@@ -461,8 +462,6 @@ color:#EE7B52;
 
 .per-title2-pc{
 	margin-top: 70px;
-	margin-left: 35px;
-	font-size:25px;
 	font-family:"Osaka-mono", "MS Gothic", "monospace";
 	color:#3B8C39;
 	line-height:1.5em;
@@ -470,6 +469,7 @@ color:#EE7B52;
 }
 .person2{
 	display: flex;
+	justify-content: center;
 }
 .op-name2{
 	font-size:15px;
@@ -480,7 +480,7 @@ color:#EE7B52;
 }
 .op-text2{
 	display: block;
-	margin:70px;
+	margin:10%;
 	line-height:1.5em;	
 	text-align: left;
 	text-decoration: underline;
@@ -490,8 +490,6 @@ color:#EE7B52;
 
 .per-title3-pc{
 	margin-top: 70px;
-	margin-left: 35px;
-	font-size: 25px;
 	font-family:"Osaka-mono", "MS Gothic", "monospace";
 	color:#D42E57;
 	line-height:1.5em;
@@ -509,7 +507,7 @@ color:#EE7B52;
 }
 .op-text3{
 	display: block;
-	margin:70px;
+	margin:10%;
 	line-height:1.5em;
 	text-align: left;
 	text-decoration: underline;
