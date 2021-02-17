@@ -166,7 +166,7 @@ color:#EE7B52;
 .explanation{
 	position:relative;
 	height: 750px;
-	background-image: url("https://github.com/ayukamira/port_folio_work_110/blob/main/food-1898194_1920.jpg?raw=true");
+	background-coloer:;
 	background-size: cover;	
 	padding-top:10%;
 }
@@ -259,7 +259,7 @@ color:#EE7B52;
 .order{
     position:relative;
 	height:auto;
-	background-image: url("https://github.com/ayukamira/port_folio_work_110/blob/main/p0492_m.jpeg?raw=true");
+	background-color: rgba(196,194,173,1.00);;
 	background-size: cover;
 }
 .list{
