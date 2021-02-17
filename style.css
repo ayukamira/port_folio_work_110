@@ -547,6 +547,7 @@ color:#EE7B52;
 	height:530px;
 	background-image:url("https://github.com/ayukamira/port_folio_work_110/blob/main/%E5%93%81%E8%B3%AA%E7%94%BB%E5%83%8F1.jpg?raw=true");
 	background-size: cover;
+	padding:10%;
 }
 .box{
 	width:80%;
@@ -576,6 +577,7 @@ color:#EE7B52;
 .qu-title-group{
 	display:block;
 	padding-top: 40px;
+	margin-bottom: 6%;
 }
 .quality-text{
 	padding-top: 110px;
